@@ -1,2 +1,2 @@
-# lunar-calender
+# lunar-calendar
 chinese lunar date conversion
