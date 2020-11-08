@@ -1,9 +1,9 @@
 {
-  "name": "lunar-calender",
+  "name": "lunar-calendar",
   "version": "1.0.0",
   "description": "chinese lunar date conversion",
   "main": "index.js",
-  "repository": "git@github.com:gleaning/lunar-calender.git",
+  "repository": "git@github.com:gleaning/lunar-calendar.git",
   "author": "gleaning2020@gmail.com",
   "license": "MIT",
   "private": false,
