@@ -109,4 +109,14 @@ class LunarCalendar {
     '\u72d7',
     '\u732a',
   ];
+
+  public totalDays(y: number) {}
+
+  public leapMonth(y: number) {}
+
+  public leapDays(y: number) {}
+
+  public monthDays(y, m) {}
+
+  public gregorianDays(y, m) {}
 }
