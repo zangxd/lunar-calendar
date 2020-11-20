@@ -119,4 +119,9 @@ class LunarCalendar {
   public monthDays(y, m) {}
 
   public gregorianDays(y, m) {}
+
+  public getHeavenlyStem() {}
+  public getEarthlyBranches() {}
+  public getChineseZodiac() {}
+  public getTerm() {}
 }
